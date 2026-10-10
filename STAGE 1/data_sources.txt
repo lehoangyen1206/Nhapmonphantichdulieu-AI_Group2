@@ -1,0 +1,14 @@
+1. Web Crawling
+Website: Điện Máy Xanh
+URL: https://www.dienmayxanh.com/tivi
+
+2. External Dataset
+Dataset: Walmart Product Listing
+Source: Kaggle
+URL: https://www.kaggle.com/datasets/promptcloud/walmart-product-listing/versions/1
+
+3. Dynamic Data
+Generated using:
+- numpy.random
+- pandas.date_range
+- Random synthetic data
